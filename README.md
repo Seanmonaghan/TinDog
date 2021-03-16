@@ -6,9 +6,9 @@ https://seanmonaghan.github.io/TinDog/
 
 ![overall Image](images/snip.PNG)
 
-![overall Image](images/sniptwoG)
+![overall Image](images/sniptwo.PNG)
 
-![overall Image](images/snipthree)
+![overall Image](images/snipthree.PNG)
 
 ```
 
